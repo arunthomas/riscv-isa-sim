@@ -11,6 +11,7 @@
 #include <iostream>
 #include <string>
 #include <cstdint>
+#include <cstdlib>
 #include <fesvr/option_parser.h>
 using namespace std;
 

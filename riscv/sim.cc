@@ -6,6 +6,7 @@
 #include <iostream>
 #include <climits>
 #include <cstdlib>
+#include <cstdio>
 #include <cassert>
 #include <signal.h>
 
